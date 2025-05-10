@@ -1,2 +1,2 @@
 # buscador
-buscador  int
+buscador  
